@@ -17,8 +17,11 @@ public class PersonsDTO {
         });
     }
 
+
+
     public List<PersonDTO> getAll() {
         return all;
+
     }
 
 }
